@@ -86,4 +86,4 @@ This project demonstrates the use of deep learning for detecting fake Indian cur
 - Keras Documentation
 - ImageDataGenerator Documentation
 
-Feel free to contribute to this project by raising issues or submitting pull requests. For any questions, contact prachiborate001@gmail.com.
+Feel free to contribute to this project by raising issues or submitting pull requests. For any questions, contact Prachiborate001@gmail.com.
