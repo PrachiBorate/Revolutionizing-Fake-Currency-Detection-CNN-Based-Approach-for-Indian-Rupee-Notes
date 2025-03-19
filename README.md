@@ -51,8 +51,8 @@ EffiVisionNet is compared against ResNet50 and ConvNeXt based on multiple parame
 ### **Prediction Results on Sample Notes**
 
 <p align="center">
-    <img src="static/images/prediction_real.png" width="45%" alt="Real Note Prediction">
-    <img src="static/images/prediction_fake.png" width="45%" alt="Fake Note Prediction">
+    <img src="Images/real.png" width="45%" alt="Real Note Prediction">
+    <img src="Images/fake.png" width="45%" alt="Fake Note Prediction">
 </p>
 
 ---
